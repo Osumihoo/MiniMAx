@@ -1,0 +1,20 @@
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.AssemblyReference.cache
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.ResolveComReference.cache
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.CoreCompileInputs.cache
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.exe.config
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.exe
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.pdb
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.exe
+C:\Users\PC SQUID PLUS\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.pdb
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.exe.config
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.exe
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\bin\Debug\MiniMAx.pdb
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.AssemblyReference.cache
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.ResolveComReference.cache
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.exe
+C:\Users\PRIDE BEAVER\source\repos\MiniMAx\MiniMAx\obj\Debug\MiniMAx.pdb
